@@ -13,4 +13,4 @@ How to add sounds to your games.
 
 * AudioSource - plays the sound (think iPod)
   - AudioClip - the sound to play (the sound file the iPod plays)
-* AudioListener - the game object that "hears" the sound, often the player or the main camera. In 3D games the distance between the AudioSource and the AudioListener affects the volume that the AudioClip is played at.
+* AudioListener - the game object that "hears" the sound, often the player or the main camera. In 3D games the distance between the AudioSource and the AudioListener affects the volume when the AudioClip is played.
